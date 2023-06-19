@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16533" started-at="2023-06-19T23:19:11 IST" finished-at="2023-06-19T23:19:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16533" started-at="2023-06-19T23:19:11 IST" finished-at="2023-06-19T23:19:28 IST">
+      <class name="com.crm.qa.testcases.removeProductTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.removeProductTest@44c8afef]" name="setUp" is-config="true" duration-ms="4744" started-at="2023-06-19T23:19:11 IST" finished-at="2023-06-19T23:19:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getProductPrice()[pri:0, instance:com.crm.qa.testcases.removeProductTest@44c8afef]" name="getProductPrice" duration-ms="10743" started-at="2023-06-19T23:19:16 IST" finished-at="2023-06-19T23:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.removeProductTest@44c8afef]" name="tearDown" is-config="true" duration-ms="990" started-at="2023-06-19T23:19:27 IST" finished-at="2023-06-19T23:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.removeProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
